@@ -12,4 +12,7 @@ class manusia{
     : name(pName){
         cout << name << "hidup\n";
     }
+    ~manusia() {
+        cout << name <<"mati\n";
+    }
 }
