@@ -5,4 +5,7 @@ using namesapce std;
 
 class jantung {
     public:
+    jantung(){
+        cout << "jantung dihidupkan\n";
+    }
 }
