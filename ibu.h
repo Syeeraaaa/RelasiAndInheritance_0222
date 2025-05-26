@@ -11,4 +11,5 @@ class Ibu{
         cout << "Ibu \"" << nama << "\" ada \n";
     }
     void tambahAnak(anak *);
+    void cetakAnak();
 }
