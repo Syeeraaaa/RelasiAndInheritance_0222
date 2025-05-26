@@ -4,5 +4,5 @@
 using namesapce std;
 
 class jantung {
-    
+    public:
 }
